@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Red Ball",
+		"number": 1,
+		"door color": "Red Door",
+		"store name": "Toy Store",
+		"status": "None",
+		"animal": "Golden Retriever",
+	},
+	{
+		"name": "Bird Seed",
+		"number": 2,
+		"door color": "Orange Door",
+		"store name": "Grocery Store",
+		"status": "None",
+		"animal": "Peacock",
+	},
+	{
+		"name": "Small Brush",
+		"number": 4,
+		"door color": "Green Door",
+		"store name": "Grooming Store",
+		"status": "None",
+		"animal": "Bunny",
+	},	
+]

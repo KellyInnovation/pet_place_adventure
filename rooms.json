@@ -1,0 +1,88 @@
+{
+	"Animals":
+	{
+		
+		"Golden Retriever": 
+		{
+			"Name": "Golden Retriever",
+			"Number": 3,
+			"Door Color": "Yellow Door",
+			"Status": "sad",
+			"Specialty Item": "Red Ball",
+			"Room Welcome": "As you open the door, you hear excited barks.
+				Inside this room is a golden retriever, with soft, golden fur.
+				This playful puppy is so excited to see you.", 
+			"Red Ball": "The ball was a great idea for the golden retriever.  
+				Great job!  The puppy really loved playing with you",
+			"Bird Seed": "The golden retriever breathes in the bird seed.
+				She can't stop sneezing.",
+			"Small Brush": "The golden retriever eats the brush.  
+				She doesn't feel very good.",
+		},
+		"Peacock":
+		{
+			"Name": "Peacock",
+			"Number": 5,
+			"Door Color": "Blue Door",
+			"Status": "sad",
+			"Specialty Item": "Bird Seed",
+			"Room Welcome": "Inside, there is a beautiful peacock fanning its tail feathers.
+				He is pecking the ground with his azure, blue head.",
+			"Red Ball": "The peacock gets angry and pops the ball.  
+				He really wanted food.",
+			"Bird Seed": "Great Job! The peacock was very hungry.
+				You watch as the peacock spreads his feathers wide.",
+			"Small Brush": "You pulled out one of his feathers! 
+				The peacock is mad and squawking!",
+		},
+		"Bunny":
+		{
+			"Name": "Bunny",
+			"Number": 6,
+			"Door Color": "Purple Door",
+			"Status": "sad",
+			"Specialty Item": "Small Brush",
+			"Room Welcome": "As soon as you walk in, a fluffy bunny hops over to see you.
+				The bunny looks cute, but a little messy.",
+			"Red Ball": "The ball bounces and smushes the poor bunny.",
+			"Bird Seed": "The bunny thinks the seed is litter.
+				Now she is even messier.",
+			"Small Brush": "That bunny sure was a mess.
+				Great job! You brushed the bunny.
+				The bunny sniffs you and likes the petting.",
+		},	
+	},
+	"Stores":
+	{
+		"Toy Store":
+		{
+			"Name": "Red Ball",
+			"Number": 1,
+			"Door Color": "Red Door",
+			"Store Name": "Toy Store",
+			"Status": "None",
+			"Animal": "Golden Retriever",
+			"Room Welcome": 
+		},
+		"Grocery Store":
+		{
+			"Name": "Bird Seed",
+			"Number": 2,
+			"Door Color": "Orange Door",
+			"Store Name": "Grocery Store",
+			"Status": "None",
+			"Animal": "Peacock",
+			"Room Welcome": 
+		},
+		"Grooming Store":
+		{
+			"Name": "Small Brush",
+			"Number": 4,
+			"Door Color": "Green Door",
+			"Store Name": "Grooming Store",
+			"Status": "None",
+			"Animal": "Bunny",
+			"Room Welcome": 
+		},	
+	},
+}
